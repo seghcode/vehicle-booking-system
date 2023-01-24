@@ -1,0 +1,32 @@
+footer {
+    background: #F8F9FA;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.q-menu,
+.social-menu {
+    flex: 1;
+}
+
+.contact-us {
+    flex: 2;
+}
+
+.q-menu li, .social-menu li {
+    list-style-type: none;
+    color: #000;
+}
+
+.q-menu li a , .social-menu li a{
+    color: #000;
+    font-size: 18px;
+    text-decoration: none;
+}
+.q-menu li a:hover, .social-menu li a:hover {
+    text-decoration: underline;
+}
+

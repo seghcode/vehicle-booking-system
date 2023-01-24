@@ -1,0 +1,12 @@
+.nav-link:hover {
+    text-decoration: underline !important;
+}
+
+.dropdown-item:hover {
+    text-decoration: underline !important;
+}
+.navbar{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
